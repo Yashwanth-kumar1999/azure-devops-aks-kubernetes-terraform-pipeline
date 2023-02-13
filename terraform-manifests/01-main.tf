@@ -26,7 +26,7 @@ terraform {
     }
   }
 
-# Terraform State Storage to Azure Storage Container addedd comment 
+# Terraform State Storage to Azure Storage Container addedd commenntt
   backend "azurerm" {
     #resource_group_name   = "terraform-storage-rg"
     #storage_account_name  = "terraformstatexlrwdrzs"
